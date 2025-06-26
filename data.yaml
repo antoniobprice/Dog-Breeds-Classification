@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Beagle', 'Labrador', 'Poodle', 'Saint Bernard']
+
+roboflow:
+  workspace: nvidia-project
+  project: dog-breeds-uutzh
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nvidia-project/dog-breeds-uutzh/dataset/3
