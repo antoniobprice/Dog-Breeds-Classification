@@ -1,5 +1,5 @@
 Dog-Breeds Classification
-A model trained on YOLOv5 to detect and label objects on a barge or in a shipyard. It is meant to be installed on and run on a Nvidia Jetson Orin Nano
+This project is meant to be installed on and run on a Nvidia Jetson Orin Nano
 
 How it works
 This project uses a YOLOv5 object detection model trained to detect different dogs. The model looks at an input image and checks if the dog matches any breeds in the data.
